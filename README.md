@@ -12,4 +12,8 @@ Simple coffee shop landing page.
 ## How to use
 Open `diy.html` in a browser.
 
+## Website Screenshot
+
+![DIY Coffee Shop Website Screenshot](./screenshot.png)
+
 This is a basic front-end practice project.
