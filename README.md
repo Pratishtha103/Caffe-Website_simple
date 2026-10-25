@@ -3,14 +3,14 @@
 Simple coffee shop landing page.
 
 ## Files
-- `diy.html`
+- `index.html`
 
 ## Languages used
 - HTML
 - CSS
 
-## How to use
-Open `diy.html` in a browser.
+## How to use: Live Link
+Open https://caffe-website-navy.vercel.app/ in browser.
 
 ## Website Screenshot
 
